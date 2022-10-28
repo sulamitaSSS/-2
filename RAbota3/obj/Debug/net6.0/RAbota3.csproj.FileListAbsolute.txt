@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RAbota3\RAbota3\bin\Debug\net6.0\RAbota3.exe
+C:\Users\User\source\repos\RAbota3\RAbota3\bin\Debug\net6.0\RAbota3.deps.json
+C:\Users\User\source\repos\RAbota3\RAbota3\bin\Debug\net6.0\RAbota3.runtimeconfig.json
+C:\Users\User\source\repos\RAbota3\RAbota3\bin\Debug\net6.0\RAbota3.dll
+C:\Users\User\source\repos\RAbota3\RAbota3\bin\Debug\net6.0\RAbota3.pdb
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.AssemblyInfo.cs
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.dll
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\refint\RAbota3.dll
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.pdb
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\RAbota3.genruntimeconfig.cache
+C:\Users\User\source\repos\RAbota3\RAbota3\obj\Debug\net6.0\ref\RAbota3.dll
